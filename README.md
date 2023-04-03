@@ -29,7 +29,7 @@ Points 1 and 2 could be accomplished by the application using programming logic 
 </p>
 
 <p align="justify">
-Step 3 would use Renderers (from the ANS-108 standard <a href="https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w">ANS-108 with DataOS</a>) so that gateways would know that these transactions should have specific renderization rules.
+Step 3 would use Renderers (from the <a href="https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w">ANS-108 standard</a>) so that gateways would know that these transactions should have specific renderization rules.
 </p>
 
 

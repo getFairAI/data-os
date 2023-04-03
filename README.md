@@ -1,7 +1,7 @@
 # Fair Protocol's DataOS
 
 <p align="justify">
-**Note:** This project intends to be a module on top of the Fair Protocol project. For a better understanding of this document and this project as a whole, we recommend reading these documents in advance:
+<b>Note:</b> This project intends to be a module on top of the Fair Protocol project. For a better understanding of this document and this project as a whole, we recommend reading these documents in advance:
 </p>
 
 * [Fair Protocol Whitepaper](https://github.com/FAIR-Protocol/decentralized-inference/blob/development/documents/whitepaper.md);
@@ -10,7 +10,7 @@
 * [Rough Proposal about ANS-108 with DataOS](https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w).
 
 <p align="justify">
-With this project, we intend to make 2 proposals for DataOS implementations using as a base the Fair Protocol. The first proposal would be similar to the "Rough Proposal about ANS-108 with DataOS" and would consist of creating an application to render data more efficiently. Our second proposal would be using inferred models in a decentralised way to create web pages.
+With this project, we intend to make 2 proposals for DataOS implementations using as a base the Fair Protocol. The first proposal would be similar to the "<a href="https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w">Rough Proposal about ANS-108 with DataOS</a>" and would consist of creating an application to render data more efficiently. Our second proposal would be using inferred models in a decentralised way to create web pages.
 </p>
 
 
@@ -29,7 +29,7 @@ Points 1 and 2 could be accomplished by the application using programming logic 
 </p>
 
 <p align="justify">
-Step 3 would use Renderers (from the ANS-108 standard) so that gateways would know that these transactions should have specific renderization rules.
+Step 3 would use Renderers (from the ANS-108 standard <a href="https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w">ANS-108 with DataOS</a>) so that gateways would know that these transactions should have specific renderization rules.
 </p>
 
 

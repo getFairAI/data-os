@@ -10,7 +10,7 @@
 * [Rough Proposal about ANS-108 with DataOS](https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w).
 
 <p align="justify">
-With this project, we intend to make 2 proposals for DataOS implementations using as a base the Fair Protocol. The first proposal would be similar to the "<a href="https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w">Rough Proposal about ANS-108 with DataOS</a>" and would consist of creating an application to render data more efficiently. Our second proposal would be using inferred models in a decentralised way to create web pages.
+With this project, we intend to make two proposals for DataOS implementations using as a base the Fair Protocol. The first proposal would be similar to the "<a href="https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w">Rough Proposal about ANS-108 with DataOS</a>" and would consist of creating an application to render data more efficiently. Our second proposal would be using inferred models in a decentralised way to create web pages.
 </p>
 
 

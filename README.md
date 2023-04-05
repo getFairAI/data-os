@@ -20,7 +20,7 @@ With this project, we intend to make two proposals for DataOS implementations us
 This proposal would create a new application that would run on top of the Fair Protocol and perform three steps:
 </p>
 
-1. It would transform text prompts from users of this new application into a search in Arweave;
+1. It would transform text prompts from users of this new application into GraphQL searches in Arweave;
 1. It would interpret the results obtained in the first step and create an input in text prompt format; 
 1. Use an Artificial Intelligence (AI) model in Fair Protocol to create a User Interface (UI) to display the obtained data optimally, passing through an API the input mentioned above.
 

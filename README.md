@@ -4,7 +4,7 @@
 <b>Note:</b> This project intends to be a module on top of the Fair Protocol project. For a better understanding of this document and this project as a whole, we recommend reading these documents in advance:
 </p>
 
-* [Fair Protocol Whitepaper](https://github.com/FAIR-Protocol/decentralized-inference/blob/development/documents/whitepaper.md);
+* [Fair Protocol Whitepaper](https://lqcpjipmt2d2daazjknargowboxuhn3wgealzbqdsjmwxbgli52q.arweave.net/XAT0oeyeh6GAGUqaCJnWC69Dt3YxALyGA5JZa4TLR3U);
 * [DataOS original idea](https://q4xpz2buwrju4ai3gfzkfeu3vjn2rhb2crlw7epn77vzm6wg74cq.arweave.net/hy786DS0U04BGzFyopKbqluonDoUV2-R7f_rlnrG_wU);
 * [ANS-108 standard](https://github.com/ArweaveTeam/arweave-standards/blob/ans-108/ans/ANS-108.md);
 * [Rough Proposal about ANS-108 with DataOS](https://a3yl723e5dcuvz4eoign6eacpmglz3sbpq542i7477m3mrlp3pga.arweave.net/BvC_62ToxUrnhHIM3xACewy87kF8O80j_P_ZtkVv28w).
